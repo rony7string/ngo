@@ -1,0 +1,1 @@
+ALTER TABLE `sales_master` ADD `vat_percent` DOUBLE NULL AFTER `customer_id`, ADD `vat_amount` DOUBLE NULL AFTER `vat_percent`;

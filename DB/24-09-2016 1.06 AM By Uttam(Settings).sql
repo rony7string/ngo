@@ -1,0 +1,1 @@
+ALTER TABLE `settings` ADD `vat` DOUBLE NULL AFTER `ac_cogs`;
